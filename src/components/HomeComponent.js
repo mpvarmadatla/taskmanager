@@ -5,7 +5,7 @@ import {Text,View,StyleSheet} from 'react-native';
 const HomeComponent = () =>{
     return (
         <View style={Styles.homeContainer}>
-            <Text>TasK Manager</Text>
+            <Text>TasK Manager welcome</Text>
         </View>
     )
 }
